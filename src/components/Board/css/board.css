@@ -1,0 +1,18 @@
+.deck-section{
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    position: relative;
+}
+.deck-controls{
+    text-align: center;
+    margin-top: 20px
+}
+.round-number{
+    font-size: 6em;
+    font-weight: bold;
+    color: #efefef;
+}

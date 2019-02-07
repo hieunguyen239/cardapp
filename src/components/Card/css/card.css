@@ -1,0 +1,10 @@
+.player-cards-list{
+    padding: 20px;
+}
+.player-cards .card{
+    list-style-type: none; 
+    padding: 5px;
+}
+.player-cards .card img{
+    width: 100px;
+}
